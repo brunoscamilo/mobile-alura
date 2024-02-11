@@ -1,5 +1,10 @@
+@import url(styles/header.css);
+
 :root {
-    --cor-fundo: #ebecee
+    --cor-fundo: #EBECEE;
+    --branco: #ffffff;
+    --laranja: #EB9800;
+    --azul-degrade:linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
 }
 
 body {
